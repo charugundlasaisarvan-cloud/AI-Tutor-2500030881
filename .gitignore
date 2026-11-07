@@ -1,1 +1,4 @@
 *.txt
+!backend/requirements.txt
+/backend/.venv/
+/backend/__pycache__/
